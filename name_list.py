@@ -1,1 +1,6 @@
-names = {"Taylan","ATA","YusufEfe","Erva"}
+names = {
+    "Taylan",
+    "ATA",
+    "YusufEfe",
+    "Erva",
+    }
