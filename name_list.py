@@ -5,4 +5,5 @@ names = {
     "Erva",
     "Hakki Erdem",
     "Kivanc",
+    "Mina",
 }
